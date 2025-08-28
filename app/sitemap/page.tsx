@@ -29,9 +29,7 @@ export default function SitemapPage() {
                     Onboarding
                   </a>
                 </h3>
-                <p className="text-muted-foreground">
-                  Email collection and terms agreement page for new user registration.
-                </p>
+                <p className="text-muted-foreground">Email collection and terms agreement for new user registration.</p>
               </div>
 
               <div className="p-4 border border-border rounded-lg">
